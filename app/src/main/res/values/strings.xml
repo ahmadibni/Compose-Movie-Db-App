@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Submission Compose</string>
+
+    <string-array name="data_title">
+        <item>Ant-Man and the Wasp: Quantumania</item>
+        <item>Avatar: The Way of Water</item>
+        <item>Black Adam</item>
+        <item>Black Panther: Wakanda Forever</item>
+        <item>Die Hart</item>
+        <item>Knock at the Cabin</item>
+        <item>Little Dixie</item>
+        <item>Plane</item>
+        <item>The Whale</item>
+        <item>Transfusion</item>
+    </string-array>
+
+    <string-array name="data_year">
+        <item>2023</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2023</item>
+        <item>2023</item>
+        <item>2023</item>
+        <item>2022</item>
+        <item>2023</item>
+    </string-array>
+
+    <string-array name="data_synopsis">
+        <item>Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope\'s parents Janet van Dyne and Hank Pym, and Scott\'s daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.</item>
+        <item>Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.</item>
+        <item>Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.</item>
+        <item>Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.</item>
+        <item>Follows a fictionalized version of Kevin Hart, as he tries to become an action movie star. He attends a school run by Ron Wilcox, where he attempts to learn the ropes on how to become one of the industry\'s most coveted action stars.</item>
+        <item>While vacationing at a remote cabin, a young girl and her two fathers are taken hostage by four armed strangers who demand that the family make an unthinkable choice to avert the apocalypse. With limited access to the outside world, the family must decide what they believe before all is lost.</item>
+        <item>Erstwhile Special Forces operative Doc Alexander is asked to broker a truce with the Mexican drug cartel in secrecy. When Oklahoma Governor Richard Jeffs celebrates the execution of a high-ranking cartel member on TV, his Chief of Staff and Doc inform him about the peace he just ended. But it’s too late, as Cuco, the cartel’s hatchet man, has set his vengeful sights on Doc’s daughter Dixie.</item>
+        <item>After a heroic job of successfully landing his storm-damaged aircraft in a war zone, a fearless pilot finds himself between the agendas of multiple militias planning to take the plane and its passengers hostage.</item>
+        <item>A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption.</item>
+        <item>Ryan Logan, a former Special Forces operative, is battling to cope with life after the loss of his wife. He is thrusted into the criminal underworld to keep his only son from being taken from him.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ant_man_quantumania</item>
+        <item>@drawable/avatar_way_of_water</item>
+        <item>@drawable/black_adam</item>
+        <item>@drawable/black_panther_wakanda_forever</item>
+        <item>@drawable/die_hart</item>
+        <item>@drawable/knock_at_the_cabin</item>
+        <item>@drawable/little_dixie</item>
+        <item>@drawable/plane</item>
+        <item>@drawable/the_whale</item>
+        <item>@drawable/transfusion</item>
+    </integer-array>
+</resources>
